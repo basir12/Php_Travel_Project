@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14610" started-at="2019-06-27T21:36:34Z" finished-at="2019-06-27T21:36:49Z">
+    <groups>
+      <group name="Smoke_Test">
+        <method signature="Test_page.testing_PhPTravels()[pri:0, instance:com.PhpTravels_Test.Test_page@544fe44c]" name="testing_PhPTravels" class="com.PhpTravels_Test.Test_page"/>
+      </group> <!-- Smoke_Test -->
+      <group name="regrassion_Test">
+        <method signature="Test_page.testing_PhPTravels()[pri:0, instance:com.PhpTravels_Test.Test_page@544fe44c]" name="testing_PhPTravels" class="com.PhpTravels_Test.Test_page"/>
+      </group> <!-- regrassion_Test -->
+    </groups>
+    <test name="Test" duration-ms="14610" started-at="2019-06-27T21:36:34Z" finished-at="2019-06-27T21:36:49Z">
+      <class name="com.PhpTravels_Test.Test_page">
+        <test-method status="PASS" signature="beforeAllClassesStare()[pri:0, instance:com.PhpTravels_Test.Test_page@544fe44c]" name="beforeAllClassesStare" is-config="true" duration-ms="27" started-at="2019-06-27T17:36:34Z" finished-at="2019-06-27T17:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllClassesStare -->
+        <test-method status="PASS" signature="beforeEachTestStart()[pri:0, instance:com.PhpTravels_Test.Test_page@544fe44c]" name="beforeEachTestStart" is-config="true" duration-ms="4575" started-at="2019-06-27T17:36:35Z" finished-at="2019-06-27T17:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method status="PASS" signature="testing_PhPTravels()[pri:0, instance:com.PhpTravels_Test.Test_page@544fe44c]" name="testing_PhPTravels" duration-ms="9973" started-at="2019-06-27T17:36:39Z" finished-at="2019-06-27T17:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing_PhPTravels -->
+      </class> <!-- com.PhpTravels_Test.Test_page -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
